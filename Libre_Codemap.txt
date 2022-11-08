@@ -1,0 +1,257 @@
+Hex – Dec – Character – Character
+0 – 0 – 0
+1 – 1 – 1
+2 – 2 – 2
+3 – 3 – 3
+4 – 4 – 4
+5 – 5 – 5
+6 – 6 – 6
+7 – 7 – 7
+8 – 8 – 8
+9 – 9 – 9
+A – 10 – A (Latin/Coptic)
+B – 11 – B (Latin/Coptic/Runic)
+C – 12 – C (Latin/Coptic/Runic)
+D – 13 – D (Latin/Coptic; use an angular font)
+E – 14 – E (Latin/Coptic)
+F – 15 – F (Latin/Runic)
+10 – 16 – ⲁ (Latin/Coptic)
+11 – 17 – б (lowercase; Latin/Cyrillic; use hybrid font)
+12 – 18 – c (Latin/Coptic/Cyrillic)
+13 – 19 – d (Lowercase Greek, Latin & Cyrillic D)
+14 – 20 – e
+15 – 21 – f
+16 – 22 – G
+17 – 23 – g
+18 – 24 – H (Latin/Coptic/Runic)
+19 – 25 – h (Latin/greek; use hybrid font)
+1A – 26 – I (dotless; Latin/Coptic/Runic/Taiwanese)
+1B – 27 – ı (dotless)
+1C – 28 – Ժ (dotless uppercase)
+1D – 29 – ȷ (dotless lowercase)
+1E – 30 – K
+1F – 31 – k
+20 – 32 – L
+21 – 33 – l
+22 – 34 – M (Latin/Coptic/Taiwanese)
+23 – 35 – μ (Latin/Coptic; use an hybrid font)
+24 – 36 – N (Latin/Coptic)
+25 – 37 – n
+26 – 38 – O
+27 – 39 – o
+28 – 40 – P
+29 – 41 – p
+2A – 42 – Q
+2B – 43 – q
+2C – 44 – R (Latin/Runic)
+2D – 45 – r
+2E – 46 – ᛋ (uppercase)
+2F – 47 – ᛋ (Latin/Coptic/Runic; final lowercase)
+30 – 48 – T (Latin/Coptic/Runic)
+31 – 49 – ㄊ (Lowercase Latin, Cyrillic & Taiwanese – Use unified font)
+32 – 50 – U
+33 – 51 – u (Latin/Coptic)
+34 – 52 – V
+35 – 53 – v
+36 – 54 – W
+37 – 55 – w
+38 – 56 – X (Latin/Coptic)
+39 – 57 – x
+3A – 58 – Y (Latin/Coptic)
+3B – 59 – y
+3C – 60 – Z (Latin/Coptic)
+3D – 61 – z
+3E – 62 – ⲃ (Coptic/Cyrillic lowercase)
+3F – 63 – Ⲅ (Uppercase Gamma)
+40 – 64 – ⲅ (Lowercase gamma – Cyrillic)
+41 – 65 – γ (Lowercase gamma – Greek/coptic)
+42 – 66 – ⲉ (Lowercase Coptic E)
+43 – 67 – Ⲑ
+44 – 68 – ⲑ
+45 – 69 – Л (Coptic/Cyrillic; use hybrid font)
+46 – 70 – λ (Coptic/Cyrillic; use hybrid font)
+47 – 71 – ν (Greek Lowercase N)
+48 – 72 – Ξ
+49 – 73 – ⲝ (Coptic Lowercase Ksi)
+4A – 74 – Ⲡ
+4B – 75 – ⲡ
+4C – 76 – Ⲣ (Coptic RO)
+4D – 77 – ⲣ
+4E – 78 – Σ (Greek Uppercase Sigma)
+4F – 79 – Ⲫ
+50 – 80 – ⲫ
+51 – 81 – Ⲯ
+52 – 82 – ⲯ
+53 – 83 – Ω
+54 – 84 – ⲱ (Greek Lowercase Omega)
+55 – 85 – Ϣ (Coptic, Hebrew & Cyrillic; use hybrid font)
+56 – 86 – ϣ (Coptic, Hebrew & Cyrillic; use hybrid font)
+57 – 87 – Ϥ (Coptic Fi)
+58 – 88 – ϥ
+59 – 89 – Ϧ
+5A – 90 – ϧ
+5B – 91 – Ϩ
+5C – 92 – ϩ
+5D – 93 – Ϫ
+5E – 94 – ϫ
+5F – 95 – Ϭ (Coptic Chima)
+60 – 96 – ϭ
+61 – 97 – Ϯ (Coptic Chi)
+62 – 98 – ϯ
+63 – 99 – Ə (Azeri Schwa)
+64 – 100 – ə
+65 – 101 – Đ (dh)
+66 – 102 – đ (dh)
+67 – 103 – Ᵹ (Insular “G” uppercase)
+68 – 104 – ᵹ (Insular “G” lowercase)
+69 – 105 – Þ (th; Latin/Runic)
+6A – 106 – þ (th Latin/Runic)
+6B – 107 – ᚢ (u)
+6C – 108 – ᚨ (a)
+6D – 109 – ᚷ (g)
+6E – 110 – ᚹ (w)
+6F – 111 – ᚾ (n)
+70 – 112 – ᛃ (J)
+71 – 113 – ᛈ (p)
+72 – 114 – ᛉ ([ks]/z)
+73 – 115 – ᛖ (e)
+74 – 116 – ᛚ(L)
+75 – 117 – ᛝ (velar nasal – k/g)
+76 – 118 –  ᛞ (d)
+77 – 119 – ᛟ (o)
+78 – 120 – ᚣ (Y)
+79 – 121 – Д (uppercase cyrillic d)
+7A – 122 – д (uppercase cyrillic d)
+7B – 123 – Ђ
+7C – 124 – ђ
+7D – 125 – Ж
+7E – 126 – ж
+7F – 127 – З (z)
+80 – 128 – з (z)
+81 – 129 – И (ı)
+82 – 130 – и (ı)
+83 – 131 – Н (N)
+84 – 132 – н (N)
+85 – 133 – Ћ
+86 – 134 – ћ
+87 – 135 – Х
+88 – 136 – х
+89 – 137 – Ц
+8A – 138 – ц
+8B – 139 – Ч
+8C – 140 – ч
+8D – 141 – Џ
+8E – 142 – џ
+8F – 143 – Щ
+90 – 144 – щ
+91 – 145 – Ъ (not b)
+92 – 146 – ъ (not b)
+93 – 147 – Ь (not b)
+94 – 148 – ь (not b)
+95 – 149 – Ы (not b)
+96 – 150 – ы (not b)
+97 – 151 – Ѣ (not b)
+98 – 152 – ѣ (not b)
+99 – 153 – Э
+9A – 154 – э
+9B – 155 – Ю
+9C – 156 – ю
+9D – 157 – Я (not R)
+9E – 158 – я (not R)
+9F – 159 – ㄅ (Taiwanese B)
+A0 – 160 – ㄆ (Taiwanese P)
+A1 – 161 – ㄈ (Taiwanese F)
+A2 – 162 – ㄪ (Taiwanese V)
+A3 – 163 – ㄉ (Taiwanese D)
+A4 – 164 – ㄋ (Taiwanese N)
+A5 – 165 – ㄌ (Taiwanese L)
+A6 – 166 – ㄍ (Taiwanese G; make font to resemble Uppercase Coptic Gamma)
+A7 – 167 – ㄎ (Taiwanese K)
+A8 – 168 – ㄫ (Taiwanese Nasal G)
+A9 – 169 – ㄏ (Taiwanese H)
+AA – 170 – ㄐ (Taiwanese J)
+AB – 171 – ㄑ (Taiwanese CH)
+AC – 172 – ㄬ (Taiwanese Ñ)
+AD – 173 – ㄒ (Taiwanese Щ)
+AE – 174 – ㄓ (Taiwanese ZH)
+AF – 175 – ㄔ (Taiwanese aspirated ch)
+B0 – 176 – ㄕ (Taiwanese SH)
+B1 – 177 – ㄖ (Taiwanese RH)
+B2 – 178 – ㄗ (Taiwanese DZ)
+B3 – 179 – ㄘ (Taiwanese TS)
+B4 – 180 – ㄙ (Taiwanese S)
+B5 – 181 – ㄚ (Taiwanese A)
+B6 – 182 – ㄛ (Taiwanese O)
+B7 – 183 – ㄜ (Taiwanese Â/ American UH/Closed A)
+B8 – 184 – ㄝ (Taiwanese E)
+B9 – 185 – ㄞ (Taiwanese AY)
+BA – 186 – ㄟ (Taiwanese EI)
+BB – 187 – ㄠ (Taiwanese AW)
+BC – 188 – ㄡ (Taiwanese OW)
+BD – 189 – ㄢ (Taiwanese AN)
+BE – 190 – ㄣ (Taiwanese nasal Â)
+BF – 191 – ㄤ (Taiwanese A+[nasal G])
+C0 – 192 – ㄥ (Taiwanese Â+[nasal G])
+C1 – 193 – ル (Taiwanese final RH; Japanese Katakana Ru)
+C2 – 194 – ㄨ (Taiwanese U)
+C3 – 195 – ㄩ (Taiwanese sound like the Russian Ы)
+C4 – 196 – 🙂/❤️/💋/👍 (Smiling Face + Red heart + Lips Kissing + Thumbs up = I like it)
+C5 – 197 – 🙁/👎 (Sad Face + Thumbs down = I don’t like it)
+C6 – 198 – 🌞 (Sun)
+C7 – 199 – 🌝 (Full moon)
+C8 – 200 – ⚡
+C9 – 201 – 🔥 (Fire)
+CA – 202 – 🌊 (Water)
+CB – 203 – 🗻/🪨 (earth/rock)
+CC – 204 – 🌪 (Wind/Tornado)
+CD – 205 – 🏹/🔫 (Gun + [Bow & arrow] = Ranged)
+CE – 206 – ⚔️ (Crossed Swords = Melee)
+CF – 207 – 🪖/🦺/🛡 (Soldier helmet + Bulletproof vest + Riot shield = Defense)
+D0 – 208 – 🥛/🍻/🍷/ (To drink)
+D1 – 209 – 🍯/🧀/🥚/🍖/ (To eat)
+D2 – 210 – 🍄/🌲/[seaweed/algae] (Mushroom + pine tree + [seaweed/algae] = Vegetal/plant/fungi)
+D3 – 211 – 🎃/🪄/🔮 (Jack O' Lantern + Magic wand + Crystal ball = Supernatural)
+D4 – 212 – 卐卍 (Leftwards + Rightwards Swastika)
+D5 – 213 – [Skip Line]
+D6 – 214 – [Space]
+D7 – 215 – _
+D8 – 216 – -
+D9 – 217 – +
+DA – 218 – *
+DB – 219 – /
+DC – 220 – \
+DD – 221 – |
+DE – 222 – &
+DF – 223 – @
+E0 – 224 – #
+E1 – 225 – $
+E2 – 226 – %
+E3 – 227 – =
+E4 – 228 – ≠
+E5 – 229 – <
+E6 – 230 – >
+E7 – 231 – (
+E8 – 232 – )
+E9 – 233 – [
+EA – 234 – ]
+EB – 235 – {
+EC – 236 – }
+ED – 237 – !
+EE – 238 – ¡
+EF – 239 – ?
+F0 – 240 – ¿
+F1 – 241 – ,
+F2 – 242 – .
+F3 – 243 – ;
+F4 – 244 – :
+F5 – 245 – ' (single vertical quote)
+F6 – 246 – " (double vertical quote)
+F7 – 247 – ʼ (Apostrophe / Glotal stop)
+F8 – 248 – ´ [combining]
+F9 – 249 – ` [combining]
+FA – 250 – ˆ [combining]
+FB – 251 – Č/Ĭ [combining; can be used either as a caron or breve; letters here are just for exemplification]
+FC – 252 – ¨ [combining]
+FD – 253 – ˙ (combining dot above)
+FE – 254 – Ḅ/¸ (combining diacritic bellow; letter is just for exemplification)
+FF – 255 – ~ [combining]

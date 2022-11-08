@@ -1,0 +1,65 @@
+﻿❦Libre Technology License Template❦
+
+By Felipe Lohan Pinheiro da Silva
+
+V.:2021-Jan-21
+
+***
+
+[Year – İntellectual Property holders]
+
+❦Libre Technology License❦
+
+*Redistributions of the product covered by this license in any form must come w/ the proper İP (İntellectual Property) notice and this License in an reasonabily accessible way.
+
+*The İP holders ⭑CAN⭑ distribute [propietary/closed/obfuscated]-sourced products under this License, provided that they respect the License terms normally.
+
+*The name of the İP holders and contributors ⭑CAN’T⭑ be used in merchandising/advertising/propaganda campaigns, or as a form of endorsement/promotion, except under prior legally recognized permission.
+
+*All the permissions from this License are: irrevocable, worldwide, unrestricted, royalty-free, non-exclusive, and ⭑APPLİED İN MATTERS OF PATENTS⭑.
+
+*The İP holders gives to everyone a permission/grant to take technical countermeasures to circumvent the technical measures in the products covered by this License preventing modiƒіed/competing/alternative technologies from being [execut/runn]ed in them; obviously, this also includes the permission/grant to run these versions of these technologies.
+
+*Anyone can run/execute the products covered by this license for any purpose.
+
+*This license grants the unrestricted right to redistribute copies of this products, in original or modiƒіed/competing/alternative forms; but the non-original ones must be clearly identiƒіed as that, in order to avoid them to be mistaken w/ the original version distributed by the İP holders.
+
+*Any legal measures took to negate or restrict any right given by this license, are automatically void/null/cancelated.
+
+*Anyone can study the technologies covered by this license, including the permission to do it through reverse engineering; this also includes the permission for invasion in servers running these technologies, ⭑SOLELY FOR THE PURPOSES AND SCOPE OF STUDYİNG AND REVERSE ENGİNEERİNG OF THE PRODUCTS COVERED İN THİS LİCENSE⭑ (so this license CAN’T be used as excuse/exemption to the invader to commit crimes against anyone). This includes an unrestricted permission/grant for the development, distribution and use of the tools and informations used to do this reverse [engineering/invasion]; this also includes an unrestricted permission/grant for sharing the informations collected/gathered from these methods.
+
+*This license automatically makes void/null/cancelated the legal validity of any trade secrets/NDAs (non-disclosure agreements) involving: information about the products covered by this license (including the ones concerning to the aforementioned restrictive technical measures and their respective countermeasures) and information concerning methods of invading products and servers running these technologies (to be done solely for the aforementioned purposes and scopes); this includes an unrestricted permission/grant for the development, distribution and use of these informations and tools that make use of them.
+
+*This License ⭑per se (by itself) DOESN’T⭑ provide any kind of warranty. Also, the İP holders (or the providers/manufacturers of the technologies covered by this license) have the normal rights to cancel or otherwise modify the existent warranty of the products if it was proven that the method employed for invasion, reverse engineering, or the execution of modiƒіed/competing/alternative technologies inside their products, caused damage/harm/malfunction on them. The cancellation or alteration of the warranty must be proportional and coherent w/ the damage/harm/malfunction that was done. 
+
+❦Libre Products Social Contract❦
+
+See my file about licensing to know more about it.
+
+1 – We will not make NDAs (Non-disclosure agreements), trade secrets or any kind of agreement with any organization (no matter if they are governmental or non-governmental) to hide technical data from our users or to embed malicious features (like to collect data from our users without their prior permission and knowledge) in our products. İf anyone attempts to do this in our distribution of the product or contact us to do so, we will refuse it and report him to our user base. THİS WİLL BE DONE EVEN İN THE CASES İN THAT THE LAW MANDATES THE EMBEDDİNG OF SUCH FEATURES OR FORBİDS TO MAKE SUCH REPORTS. İn these cases we have the following options:
+
+1.1 – Outright refusing to abide the law (civil disobey).
+
+1.2 – Move to another country/jurisdiction.
+
+1.3 – Cease our operations (closing our organization).
+
+2 – We will NOT embed in our products features that:
+
+2.1 – Are proprietary/closed source (even if these “binary blobs” are used in drivers or in an external manner, like firmware) or use non-libre licenses. Products with obfuscated source code will also not admitted.
+
+2.2 – Are under a license that makes restrictions based on discrimination against specific users, groups, activities or fields of study.
+
+2.3 – Have any malicious features (including backdoors, malwares, etc.) or do not comply with the İtem 1.
+
+4 – Our preference for licenses are in the following order:
+
+4.1 – Public Domain.
+
+4.2 – Components with permissive licenses can be used permanently, but will preferable be replaced by those of the item 4.1 when possible.
+
+4.3 – Products with “Copyleft” or “Viral” licenses can be admitted temporarily, but will preferable be replaced by those of the item 4.2 when possible as soon as possible (ASAP).
+
+5 – Any technical problems (“bugs”) will be reported to our user base as soon as possible (ASAP).
+
+6 – We will recommend and, as far as our resources allow us to do so, help to fund the development of libre licensed products, with the same preference system of the item 4, aiming to replace the closed/proprietary/non-libre/obfuscated-sourced ones that are eventually used and embedded by other projects/organizations.
